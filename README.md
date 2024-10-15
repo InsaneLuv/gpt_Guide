@@ -11,4 +11,5 @@ ChatGPT — это инструмент, который позволит Вам 
 
 # Меню навигации
 
-Файлы файлы файлы **ФАЙЛЫ!**
+ [1. Файлы](https://github.com/InsaneLuv/gpt_Guide/blob/main/stuff/files/files.md)
+
