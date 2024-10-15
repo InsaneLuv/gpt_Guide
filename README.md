@@ -12,4 +12,6 @@ ChatGPT — это инструмент, который позволит Вам 
 # Меню навигации
 
  [1. Файлы](https://github.com/InsaneLuv/gpt_Guide/blob/main/stuff/files/files.md)
+ ![ChatGPT Icon](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg) **ChatGPT**
+
 
