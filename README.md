@@ -1,17 +1,14 @@
-# Начало. Что такое ChatGPT.
-ChatGPT — это инструмент, который позволит Вам общаться с компьютером на обычном языке. Можно представить этот инструмент как реального человека сидящего рядом с вами. Это как ваш личный помощник, который может отвечать на вопросы, решать задачи, помогать с поиском информации или даже поддерживать обсуждение.
+## Вики. Главная страница.
+Руководство по использованию ChatGPT. Промпты, шаблоны, агенты и прочая полезная информация.
 
-С помощью ChatGPT можно:
- - Задавать вопросы по различным темам (например, про логистику, технологии, программирование). 
- - Искать решения сложных задач, как например расчёты или планирование. 
- - Переводить тексты и получать объяснения на разных языках.
- - Проводить анализ данных или делать прогнозы на основе статистики.
+> ![авава](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai)   
+Инструмент, который позволит Вам общаться с компьютером как с всезнающим собеседником в формате привычного чата.
+## Вики. Навигация.
 
-Однако нужно помнить, что ChatGPT не всегда знает свежую информацию.
+<a href='https://github.com/InsaneLuv/gpt_Guide/wiki' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Перейти_в главное меню wiki-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=FFFFFF'/></a>
+<a href='https://github.com/InsaneLuv/gpt_Guide/wiki' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Ресурсы-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=FFFFFF'/></a>
+<a href='https://github.com/InsaneLuv/gpt_Guide/wiki' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Лицензия-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=FFFFFF'/></a>
 
-# Меню навигации
+## Ресурсы (RUS)
 
- [1. Файлы](https://github.com/InsaneLuv/gpt_Guide/blob/main/stuff/files/files.md)
- ![ChatGPT Icon](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg) **ChatGPT**
-
-
+ 1. [Статья Tinkoff.](https://journal.tinkoff.ru/chatgpt/) *(Введение)*
